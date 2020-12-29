@@ -1,0 +1,12 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Solr Cookbook 4.0</field>
+  <field name="description">Solr Cookbook 4.0 contains multiple recipes helping you with your everyday work with Solr :)</field>
+ </doc>
+  <doc>
+  <field name="id">2</field>
+  <field name="name">Elasticsearch Server second edition</field>
+  <field name="description">A nice book about Elasticsearch for novice and intermediate users</field>
+ </doc>
+</add>

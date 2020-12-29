@@ -1,0 +1,24 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Book 1</field>
+  <field name="type">book</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Book 2</field>
+  <field name="type">book</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">Workbook A</field>
+  <field name="type">workbook</field>
+  <field name="book">1</field>
+ </doc>
+ <doc>
+  <field name="id">4</field>
+  <field name="name">Workbook B</field>
+  <field name="type">workbook</field>
+  <field name="book">2</field> 
+ </doc>
+</add>

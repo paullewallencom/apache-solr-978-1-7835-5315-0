@@ -1,0 +1,8 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="title">Solr Cookbook 4</field>
+  <field name="published">2013-01-10</field>
+  <field name="likes">10</field>
+ </doc>
+</add>

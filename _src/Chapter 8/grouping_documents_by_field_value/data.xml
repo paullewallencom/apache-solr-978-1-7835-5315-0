@@ -1,0 +1,20 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Solr cookbook</field>
+  <field name="category">it</field>
+  <field name="price">39.99</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Mechanics cookbook</field>
+  <field name="category">mechanics</field>
+  <field name="price">19.99</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">ElasticSearch book</field>
+  <field name="category">it</field>
+  <field name="price">49.99</field>
+ </doc>
+</add>

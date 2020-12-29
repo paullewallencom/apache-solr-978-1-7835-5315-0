@@ -1,0 +1,12 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="title">Solr 4.0 cookbook</field>
+  <field name="description">The book is totally focused on the 4.0 version of Apache Solr enterprise search server. The content is divided into ten thematic chapters, just like with the previous version of the book</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="title">Solr 3.1 cookbook</field>
+  <field name="description">The book is focused on the 3.1 version of Solr. The content is divided into ten chapters, each of which consists of a few to several recipes.</field>
+ </doc>
+</add>

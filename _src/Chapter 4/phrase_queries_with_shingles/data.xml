@@ -1,0 +1,14 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="title">Financial report 2014</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="title">Financial marketing report 2014</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="title">Excluded financials in 2014 - internal report</field>
+ </doc>
+</add>

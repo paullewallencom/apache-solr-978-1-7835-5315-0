@@ -1,0 +1,17 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="problem">Service unavailable</field>
+  <field name="severity">Critical</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="problem">Logging error</field>
+  <field name="severity">Low</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="problem">Disk space low on node1</field>
+  <field name="severity">High</field>
+ </doc>
+</add>

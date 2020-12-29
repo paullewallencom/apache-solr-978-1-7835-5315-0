@@ -1,0 +1,30 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="title">Next-gen consoles announced</field>
+  <field name="parent">true</field>
+  <doc>
+   <field name="id">10001</field>
+   <field name="content">Great, can't wait!</field>
+   <field name="author">annon</field>
+   <field name="parent">false</field>
+  </doc>
+  <doc>
+   <field name="id">10002</field>
+   <field name="content">When they'll be out?</field>
+   <field name="author">marel</field>
+   <field name="parent">false</field>
+  </doc>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="title">Next-gen consoles announced will be announced</field>
+  <field name="parent">true</field>
+  <doc>
+   <field name="id">20001</field>
+   <field name="content">New Mario, super!</field>
+   <field name="author">ralf</field>
+   <field name="parent">false</field>
+  </doc>
+ </doc>
+</add>

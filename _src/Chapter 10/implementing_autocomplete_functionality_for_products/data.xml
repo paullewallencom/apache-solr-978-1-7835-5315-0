@@ -1,0 +1,14 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">First Solr Cookbook</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Second Solr Cookbook</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">Elasticsearch book</field>
+ </doc>
+</add>

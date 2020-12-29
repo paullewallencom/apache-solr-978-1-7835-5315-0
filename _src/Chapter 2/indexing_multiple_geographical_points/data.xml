@@ -1,0 +1,13 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Burger Deluxe</field>
+  <field name="loc">51.30,-0.12</field> 
+  <field name="loc">38.89,-77.03</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Chips and fish D.C. exclusive</field>
+  <field name="loc">38.89,-77.03</field>
+ </doc>
+</add>

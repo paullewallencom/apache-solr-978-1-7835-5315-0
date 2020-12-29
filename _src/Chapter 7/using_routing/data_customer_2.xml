@@ -1,0 +1,7 @@
+<add>
+ <doc>
+  <field name="id">customer_2!3</field>
+  <field name="title">Customer document</field>
+  <field name="customer">customer_2</field>
+ </doc>
+</add>

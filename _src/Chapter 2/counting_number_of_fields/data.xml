@@ -1,0 +1,14 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="title">Solr Cookbook 4</field>
+  <field name="tags">solr</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="title">Solr Cookbook 4 second edition</field>
+  <field name="tags">search</field>
+  <field name="tags">solr</field>
+  <field name="tags">cookbook</field>
+ </doc>
+</add>

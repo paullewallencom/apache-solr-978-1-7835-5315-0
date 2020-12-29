@@ -1,0 +1,12 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">First</field>
+  <field name="description">>Water is a chemical substance with the chemical formula H2O. A water molecule contains one oxygen and two hydrogen atoms connected by covalent bonds. Water is a liquid at ambient conditions, but it often co-exists on Earth with its solid state, ice, and gaseous state (water vapor or steam). Water also exists in a liquid crystal state near hydrophilic surfaces.[1][2] Under nomenclature used to name chemical compounds, Dihydrogen monoxide is the scientific name for water, though it is almost never used.</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Zweite</field>
+  <field name="description">Wasser (H2O) ist eine chemische Verbindung aus den Elementen Sauerstoff (O) und Wasserstoff (H). Wasser ist die einzige chemische Verbindung auf der Erde, die in der Natur in allen drei Aggregatzuständen vorkommt. Die Bezeichnung Wasser wird dabei besonders für den flüssigen Aggregatzustand verwendet. Im festen (gefrorenen) Zustand spricht man von Eis, im gasförmigen Zustand von Wasserdampf.</field>
+ </doc>
+</add>

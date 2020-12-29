@@ -1,0 +1,17 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Company one</field>
+  <field name="geo">10.1,10.1</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Company two</field>
+  <field name="geo">11.1,11.1</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">Company three</field>
+  <field name="geo">12.2,12.2</field>
+ </doc>
+</add>

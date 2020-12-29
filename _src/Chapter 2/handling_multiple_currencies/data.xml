@@ -1,0 +1,13 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Test document one</field>
+  <field name="price">10.10,USD</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Test document two</field>
+  <field name="price">12.01,USD</field>
+ </doc>
+</add>
+

@@ -1,0 +1,27 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="title">Solr 4.0 cookbook</field>
+  <field name="added">2012-01-12T23:59:59Z</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="title">Solr 3.1 cookbook</field>
+  <field name="added">2011-07-01T23:59:59Z</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="title">Elasticsearch Server</field>
+  <field name="added">2012-03-01T23:59:59Z</field>
+ </doc>
+ <doc>
+  <field name="id">4</field>
+  <field name="title">Elasticsearch Server second edition</field>
+  <field name="added">2014-04-01T23:59:59Z</field>
+ </doc>
+ <doc>
+  <field name="id">5</field>
+  <field name="title">Mastering Elasticsearch</field>
+  <field name="added">2013-11-01T23:59:59Z</field>
+ </doc>
+</add>

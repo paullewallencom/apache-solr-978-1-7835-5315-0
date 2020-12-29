@@ -1,0 +1,22 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Solr cookbook</field>
+  <field name="votes">5</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Mechanics cookbook</field>
+  <field name="votes">12</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">Other cookbook</field>
+  <field name="votes">1</field>
+ </doc>
+ <doc>
+  <field name="id">4</field>
+  <field name="name">Yet another cookbook</field>
+  <field name="votes">0</field>
+ </doc>
+</add>

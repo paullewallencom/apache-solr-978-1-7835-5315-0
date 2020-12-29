@@ -1,0 +1,9 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="file">Sample file</field>
+  <field name="count">2</field>
+  <field name="user">gro</field>
+  <field name="user">negativ</field>
+ </doc>
+</add>

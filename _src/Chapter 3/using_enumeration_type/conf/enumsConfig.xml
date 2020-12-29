@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<enumsConfig>
+ <enum name="severity">
+  <value>Ignore</value>
+  <value>Low</value>
+  <value>Medium</value>
+  <value>High</value>
+  <value>Critical</value>
+ </enum>
+</enumsConfig>

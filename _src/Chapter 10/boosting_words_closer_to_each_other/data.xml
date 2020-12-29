@@ -1,0 +1,12 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Solr and all the others</field>
+  <field name="description">This is about Solr</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Lucene and all the others</field>
+  <field name="description">This is a book about Solr and Lucene</field>
+ </doc>
+</add>

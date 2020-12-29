@@ -1,0 +1,26 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Book 1</field>
+  <field name="category">books</field>
+  <field name="stock">true</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Book 2</field>
+  <field name="category">books</field>
+  <field name="stock">true</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">Workbook 1</field>
+  <field name="category">workbooks</field>
+  <field name="stock">false</field>
+ </doc>
+ <doc>
+  <field name="id">4</field>
+  <field name="name">Workbook 2</field>
+  <field name="category">workbooks</field>
+  <field name="stock">true</field>
+ </doc>
+</add>
